@@ -11,6 +11,14 @@ body {
   color: #222;
 }
 
+a:hover {
+  text-decoration: underline;
+}
+a {
+  text-decoration: none;
+  color: inherit; 
+}
+
 a {
   text-decoration: none;
   color: inherit;
